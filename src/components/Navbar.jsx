@@ -47,7 +47,7 @@ export default function Navbar() {
               </div>
             </button>
 
-            {/* Nav links — desktop */}
+            {/* Nav links - desktop */}
             <div className="hidden md:flex items-center space-x-1">
               {navLinks.map(({ to, label }) => (
                 <NavLink
@@ -86,7 +86,7 @@ export default function Navbar() {
                 {t('nav.cta')}
               </button>
 
-              {/* Hamburger — mobile only */}
+              {/* Hamburger - mobile only */}
               <button
                 onClick={() => setMenuOpen(true)}
                 className="md:hidden flex flex-col justify-center items-center w-9 h-9 rounded-lg hover:bg-gray-100 transition-colors gap-1"

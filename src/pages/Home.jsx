@@ -77,53 +77,6 @@ export default function Home() {
     { emoji: '🏗️', accentClass: 'bg-purple-500',  key: '3', onCta: () => navigate('/contact') },
   ]
 
-  const pillars = [
-    {
-      key: '1',
-      accent: 'bg-sdm-blue',
-      iconBg: 'bg-blue-50',
-      labelColor: 'text-sdm-blue bg-blue-50',
-      icon: (
-        <svg className="w-6 h-6 text-sdm-blue" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
-        </svg>
-      ),
-    },
-    {
-      key: '2',
-      accent: 'bg-emerald-500',
-      iconBg: 'bg-emerald-50',
-      labelColor: 'text-emerald-700 bg-emerald-50',
-      icon: (
-        <svg className="w-6 h-6 text-emerald-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z" />
-        </svg>
-      ),
-    },
-    {
-      key: '3',
-      accent: 'bg-purple-500',
-      iconBg: 'bg-purple-50',
-      labelColor: 'text-purple-700 bg-purple-50',
-      icon: (
-        <svg className="w-6 h-6 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
-        </svg>
-      ),
-    },
-    {
-      key: '4',
-      accent: 'bg-cyan-500',
-      iconBg: 'bg-cyan-50',
-      labelColor: 'text-cyan-700 bg-cyan-50',
-      icon: (
-        <svg className="w-6 h-6 text-cyan-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 15a4 4 0 004 4h9a5 5 0 10-.1-9.999 5.002 5.002 0 10-9.78 2.096A4.001 4.001 0 003 15z" />
-        </svg>
-      ),
-    },
-  ]
-
   return (
     <>
       {/* ── HERO ── */}
@@ -238,37 +191,6 @@ export default function Home() {
                 >
                   {t(`who.${key}.cta`)}
                 </button>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* ── PLATFORM PILLARS ── */}
-      <section className="py-20 px-4" style={{ background: '#F5F8FF' }}>
-        <div className="max-w-5xl mx-auto">
-          <div className="text-center mb-14">
-            <h2 className="text-3xl md:text-4xl font-bold text-sdm-navy mb-3">{t('pillars.title')}</h2>
-            <p className="text-gray-400 text-base max-w-xl mx-auto">{t('pillars.sub')}</p>
-          </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            {pillars.map(({ key, accent, iconBg, labelColor, icon }) => (
-              <div key={key} className="bg-white rounded-2xl shadow-sm border border-gray-100 overflow-hidden">
-                <div className={`h-1 w-full ${accent}`} />
-                <div className="p-7">
-                  <div className="flex items-start gap-4">
-                    <div className={`flex-shrink-0 w-12 h-12 ${iconBg} rounded-xl flex items-center justify-center`}>
-                      {icon}
-                    </div>
-                    <div>
-                      <span className={`inline-block text-xs font-bold uppercase tracking-wider px-2 py-0.5 rounded-md mb-2 ${labelColor}`}>
-                        {t(`pillars.${key}.label`)}
-                      </span>
-                      <h3 className="font-bold text-sdm-navy text-base mb-2">{t(`pillars.${key}.title`)}</h3>
-                      <p className="text-gray-400 text-sm leading-relaxed">{t(`pillars.${key}.desc`)}</p>
-                    </div>
-                  </div>
-                </div>
               </div>
             ))}
           </div>

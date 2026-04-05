@@ -10,8 +10,8 @@
     "badge": "NRA-ready from day one · Built to NAS standards",
     "h1_1": "Everything starts with",
     "h1_2": "the right data.",
-    "sub": "Smart Data Management is a complete cloud platform for accounting, invoicing and financial management — built specifically for Bulgaria's National Accounting Standards.",
-    "cta1": "Start Free — 90 Days",
+    "sub": "Smart Data Management is a complete cloud platform for accounting, invoicing and financial management - built specifically for Bulgaria's National Accounting Standards.",
+    "cta1": "Start Free - 90 Days",
     "cta2": "See All Features",
     "nocredit": "No credit card · No installation · Full access from day one"
   },
@@ -26,9 +26,9 @@
     "title": "Everything you need for your accounting",
     "sub": "Every module works together in a unified workspace. Less manual work, full real-time transparency.",
     "1": { "title": "Invoicing & Payments", "desc": "Invoices and pro forma invoices in seconds. Automatic numbering, correct VAT, direct link to the accounting journal. No double-entry." },
-    "2": { "title": "Receivables & Payables", "desc": "Track overdue balances, manage due dates. See who owes what and when — no Excel. Automatic marking of overdue items." },
+    "2": { "title": "Receivables & Payables", "desc": "Track overdue balances, manage due dates. See who owes what and when - no Excel. Automatic marking of overdue items." },
     "3": { "title": "General Ledger & Chart of Accounts", "desc": "Full double-entry bookkeeping with a configurable chart of accounts aligned to NAS. Every transaction posts automatically." },
-    "4": { "title": "Bank & Cash", "desc": "Upload bank statements and the system matches transactions to recorded operations. Multiple bank accounts — one workspace." },
+    "4": { "title": "Bank & Cash", "desc": "Upload bank statements and the system matches transactions to recorded operations. Multiple bank accounts - one workspace." },
     "5": { "title": "VAT Reporting", "desc": "Automatic VAT journals. VAT return and VIES declaration ready for the NRA. No manual input." },
     "6": { "title": "Administrative Console", "desc": "Manage multiple companies with roles, permissions and financial years. Switch between clients without logging out. Full audit trail." }
   },
@@ -36,10 +36,10 @@
     "title": "Why Smart Data Management?",
     "sub": "The market is split between outdated desktop systems and international tools not adapted for local compliance. SDM fills exactly that gap.",
     "1": { "title": "Built by accountants for accountants", "desc": "The chart of accounts follows NAS. VAT journals are in the correct NRA format. VIES is built in. None of this requires configuration." },
-    "2": { "title": "Every company's data is fully isolated", "desc": "Each company in a fully separate workspace — own chart of accounts, own journals. The client sees only their own company." },
+    "2": { "title": "Every company's data is fully isolated", "desc": "Each company in a fully separate workspace - own chart of accounts, own journals. The client sees only their own company." },
     "3": { "title": "Scale without scaling costs", "desc": "Competitors charge per user or per company. SDM's Business plan is a fixed monthly fee for unlimited client firms." },
     "4": { "title": "Multi-currency operations", "desc": "Support for BGN, EUR and any other currency. Configurable chart of accounts to NAS, IFRS or a custom structure." },
-    "5": { "title": "From invoice to general ledger — automatically", "desc": "Every issued invoice posts directly to the sales journal and general ledger. No export, no import, no data loss." },
+    "5": { "title": "From invoice to general ledger - automatically", "desc": "Every issued invoice posts directly to the sales journal and general ledger. No export, no import, no data loss." },
     "6": { "title": "EU cloud with full audit traceability", "desc": "No installation. No backups. EU data infrastructure, GDPR compliant. Every action recorded with user, time and IP." }
   },
   "who": {
@@ -51,37 +51,13 @@
     },
     "2": {
       "title": "Small & Medium Businesses",
-      "desc": "Whether you issue ten or one hundred invoices a month, SDM gives you clean, compliant accounting without unnecessary complexity. Your accountant works in the same system — no files back and forth.",
+      "desc": "Whether you issue ten or one hundred invoices a month, SDM gives you clean, compliant accounting without unnecessary complexity. Your accountant works in the same system - no files back and forth.",
       "cta": "Learn more →"
     },
     "3": {
       "title": "Corporations & Public Administration",
       "desc": "Complex structures requiring ERP integration and strict compliance. The Corporate plan includes custom configuration, data migration and dedicated onboarding.",
       "cta": "Contact us →"
-    }
-  },
-  "pillars": {
-    "title": "Built different. Built for Bulgaria.",
-    "sub": "Four capabilities that set SDM apart from legacy desktop systems and international SaaS tools.",
-    "1": {
-      "label": "Compliance",
-      "title": "NAS & NRA — built in, not bolted on",
-      "desc": "The chart of accounts follows NAS. VAT journals are generated in the correct NRA format. VIES declaration is produced automatically. Zero configuration required — it works correctly from day one."
-    },
-    "2": {
-      "label": "Pricing",
-      "title": "One fixed fee for all your client firms",
-      "desc": "Competitors charge per user or per company. The SDM Business plan covers up to five client firms at a single monthly rate — your revenue grows without your software bill growing with it."
-    },
-    "3": {
-      "label": "Automation",
-      "title": "From invoice to general ledger in seconds",
-      "desc": "Every invoice posts directly to the sales journal and general ledger the moment it is issued. No exports, no manual entries, no reconciliation headaches at month-end."
-    },
-    "4": {
-      "label": "Infrastructure",
-      "title": "EU cloud with full audit traceability",
-      "desc": "No installation. No local backups. Data stored in European infrastructure, fully GDPR compliant. Every action is logged with the user, timestamp and IP address — always."
     }
   },
   "cta": {
@@ -91,29 +67,29 @@
   },
   "sol": {
     "h1": "Product & Solutions",
-    "sub": "Full accounting, invoicing and financial management functionality — in one unified workspace.",
+    "sub": "Full accounting, invoicing and financial management functionality - in one unified workspace.",
     "avail": {
       "badge": "● Available now",
       "title": "Active Modules",
       "sub": "Ready to use from day one. Built to Bulgaria's National Accounting Standards."
     },
     "benefit": "The benefit for you",
-    "m1": { "title": "Invoicing & Payments", "desc": "Issue invoices and pro forma invoices in seconds — with automatic numbering, correct VAT and a direct link to the accounting journal. Pro forma converts to final invoice with one click. Supports BGN, EUR and any other currency.", "benefit": "No double-entry. Every invoice posts directly to the sales journal." },
-    "m2": { "title": "Receivables & Payables", "desc": "Track overdue balances, manage due dates, maintain complete sales and purchase journals. Automatic marking of overdue items. Full history per client and supplier.", "benefit": "See who owes what and when — no Excel reports needed." },
+    "m1": { "title": "Invoicing & Payments", "desc": "Issue invoices and pro forma invoices in seconds - with automatic numbering, correct VAT and a direct link to the accounting journal. Pro forma converts to final invoice with one click. Supports BGN, EUR and any other currency.", "benefit": "No double-entry. Every invoice posts directly to the sales journal." },
+    "m2": { "title": "Receivables & Payables", "desc": "Track overdue balances, manage due dates, maintain complete sales and purchase journals. Automatic marking of overdue items. Full history per client and supplier.", "benefit": "See who owes what and when - no Excel reports needed." },
     "m3": { "title": "General Ledger & Chart of Accounts", "desc": "Full double-entry bookkeeping with a configurable chart of accounts aligned to NAS and IFRS. Pre-structured by NAS groups 1–9. Import your own or configure from scratch.", "benefit": "Every transaction posts automatically to the right accounts." },
-    "m4": { "title": "Bank & Cash", "desc": "Upload bank statements in CSV or XML format and the system matches transactions to recorded operations. Multiple bank accounts and cash registers in one workspace. Generate XML payment orders.", "benefit": "Multiple accounts and cash registers — one workspace." },
-    "m5": { "title": "VAT Reporting", "desc": "Automatic VAT sales and purchase journals. VAT return and VIES declaration ready for NRA submission. Generated from invoice data — no manual input.", "benefit": "VAT for all clients in one place, no tool switching." },
+    "m4": { "title": "Bank & Cash", "desc": "Upload bank statements in CSV or XML format and the system matches transactions to recorded operations. Multiple bank accounts and cash registers in one workspace. Generate XML payment orders.", "benefit": "Multiple accounts and cash registers - one workspace." },
+    "m5": { "title": "VAT Reporting", "desc": "Automatic VAT sales and purchase journals. VAT return and VIES declaration ready for NRA submission. Generated from invoice data - no manual input.", "benefit": "VAT for all clients in one place, no tool switching." },
     "m6": { "title": "Administrative Console", "desc": "Manage multiple companies with roles, permissions and financial year configuration. Add a new client in minutes. Switch between clients without logging out. Every action recorded with user and time.", "benefit": "Switch between clients without logging out. Every action recorded." },
     "upcoming": {
       "badge": "⚙ In active development",
       "title": "Upcoming Modules",
-      "sub": "Available automatically when released — no additional setup or migration needed.",
+      "sub": "Available automatically when released - no additional setup or migration needed.",
       "soon": "Coming Soon",
       "1": { "title": "Automatic Bank Reconciliation", "desc": "Direct bank connection via open banking. Transactions reconciled automatically by rules." },
       "2": { "title": "Fixed Assets & Depreciation", "desc": "Asset register with automatic depreciation calculation. Straight-line, declining balance, units-of-production methods." },
       "3": { "title": "Payroll", "desc": "Salary calculations, pay slips, Form 1 and Form 6 declarations, batch transfer to the NRA." },
       "4": { "title": "Inventory Management", "desc": "Stock tracking, goods receipts and inventory valuation integrated with the general ledger. FIFO or weighted average cost." },
-      "5": { "title": "OCR Document Recognition", "desc": "AI reads purchase invoices and generates accounting entries. Photograph or upload a PDF — the system does the rest." },
+      "5": { "title": "OCR Document Recognition", "desc": "AI reads purchase invoices and generates accounting entries. Photograph or upload a PDF - the system does the rest." },
       "6": { "title": "API & Integrations", "desc": "REST API for connecting with ERP systems, online stores, banking systems and internal tools." }
     }
   },
@@ -124,22 +100,22 @@
     "plans": {
       "1": { "tag": "Starter / Demo", "name": "Starter", "limit": "1 company · 2 users · 30 invoices/mo", "features": ["Invoicing up to 30/mo", "Basic NAS chart of accounts", "VAT return", "1 bank account"] },
       "2": { "tag": "Standard", "name": "Standard", "limit": "1 company · 5 users · 100 invoices/mo", "features": ["Everything in Starter", "Configurable chart of accounts", "Bank reconciliation (CSV)", "Unlimited bank accounts", "Custom invoice templates"] },
-      "3": { "tag": "Business", "name": "Business", "limit": "Up to 5 companies · 5 users/company · Unlimited invoices", "features": ["Everything in Standard", "Up to 5 companies — isolated data", "Centralised dashboard", "Switch clients without logout", "Dedicated onboarding session"] },
+      "3": { "tag": "Business", "name": "Business", "limit": "Up to 5 companies · 5 users/company · Unlimited invoices", "features": ["Everything in Standard", "Up to 5 companies - isolated data", "Centralised dashboard", "Switch clients without logout", "Dedicated onboarding session"] },
       "4": { "tag": "Corporate", "name": "Corporate", "limit": "Unlimited companies · Custom configuration", "features": ["Everything in Business", "Unlimited companies", "IFRS chart of accounts", "Data migration", "Priority support", "API integrations"] }
     },
     "cta": {
       "title": "Interested? Get in touch.",
-      "sub": "We'll walk you through the platform, answer your questions and suggest the plan that fits your needs. 90-day free trial — no credit card.",
+      "sub": "We'll walk you through the platform, answer your questions and suggest the plan that fits your needs. 90-day free trial - no credit card.",
       "btn": "Contact us"
     }
   },
   "about": {
     "h1": "About Smart Data Management",
-    "sub": "We built the tool we wished existed — a modern cloud accounting platform, written by accountants for accountants.",
+    "sub": "We built the tool we wished existed - a modern cloud accounting platform, written by accountants for accountants.",
     "story": {
       "title": "Our story",
       "p1": "Smart Data Management was born from a real problem: accounting firms in Bulgaria rely on outdated desktop systems requiring local installation and IT support, or on international cloud tools not adapted for NAS and NRA formats.",
-      "p2": "We decided to build something better — a cloud platform where the chart of accounts follows NAS, VAT journals are in the correct NRA format and VIES is built in. No configuration. Works correctly from day one.",
+      "p2": "We decided to build something better - a cloud platform where the chart of accounts follows NAS, VAT journals are in the correct NRA format and VIES is built in. No configuration. Works correctly from day one.",
       "p3": "Today SDM serves accounting firms and businesses across Bulgaria, with data stored in European infrastructure, fully GDPR compliant."
     },
     "stats": {
@@ -149,18 +125,18 @@
     },
     "mission": {
       "title": "Our mission",
-      "desc": "To make modern, compliant accounting accessible to every company in Bulgaria — regardless of size — through a platform built by practising accountants."
+      "desc": "To make modern, compliant accounting accessible to every company in Bulgaria - regardless of size - through a platform built by practising accountants."
     },
     "values": {
       "title": "Our values",
-      "1": { "title": "Accuracy above all", "desc": "Accounting demands precision. Every module is built to work correctly from day one — not approximately, but exactly." },
-      "2": { "title": "Local compliance", "desc": "We are built specifically for Bulgaria. NAS, VAT, NRA — not as an add-on, but as the foundation of the platform." },
+      "1": { "title": "Accuracy above all", "desc": "Accounting demands precision. Every module is built to work correctly from day one - not approximately, but exactly." },
+      "2": { "title": "Local compliance", "desc": "We are built specifically for Bulgaria. NAS, VAT, NRA - not as an add-on, but as the foundation of the platform." },
       "3": { "title": "Scale without complexity", "desc": "Our clients must be able to grow without increasing the cost or complexity of their tools." }
     },
     "team": {
       "title": "The team",
       "desc": "The SDM team consists of developers, accountants and consultants with many years of experience in Bulgaria's financial sector.",
-      "placeholder": "Team profiles — coming soon"
+      "placeholder": "Team profiles - coming soon"
     }
   },
   "contact": {
@@ -190,7 +166,7 @@
     },
     "trial": {
       "title": "Want to see the platform in action?",
-      "desc": "90 days free — no credit card, no commitment. Full access from day one.",
+      "desc": "90 days free - no credit card, no commitment. Full access from day one.",
       "tag1": "90 days free",
       "tag2": "No credit card",
       "tag3": "Full access"

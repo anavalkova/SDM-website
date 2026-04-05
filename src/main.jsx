@@ -1,4 +1,4 @@
-import './i18n/index.js'   // must be first — initialises i18next before render
+import './i18n/index.js'   // must be first - initialises i18next before render
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import { BrowserRouter } from 'react-router-dom'
