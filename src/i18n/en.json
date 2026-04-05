@@ -60,26 +60,29 @@
       "cta": "Contact us →"
     }
   },
-  "cmp": {
-    "title": "Comparison with the competition",
-    "note": "Features as of March 2026.",
-    "feature": "Feature",
-    "col": { "nula": "Nula.bg", "desktop": "Desktop (BG)", "intl": "Intl. SaaS" },
-    "r1": "NAS / NRA formats",
-    "r2": "True multi-company operation",
-    "r3": "Isolated data per company",
-    "r4": "Fixed price for accounting firms",
-    "r5": "Multi-currency",
-    "r6": "Cloud access, no installation",
-    "r7": "EU data / GDPR",
-    "r8": "VAT & VIES built-in",
-    "partial": "Partial",
-    "limited": "Limited",
-    "seplicense": "Separate licenses",
-    "addon": "Add-on",
-    "varies": "Varies",
-    "peruser": "Per user",
-    "local": "Local"
+  "pillars": {
+    "title": "Built different. Built for Bulgaria.",
+    "sub": "Four capabilities that set SDM apart from legacy desktop systems and international SaaS tools.",
+    "1": {
+      "label": "Compliance",
+      "title": "NAS & NRA — built in, not bolted on",
+      "desc": "The chart of accounts follows NAS. VAT journals are generated in the correct NRA format. VIES declaration is produced automatically. Zero configuration required — it works correctly from day one."
+    },
+    "2": {
+      "label": "Pricing",
+      "title": "One fixed fee for all your client firms",
+      "desc": "Competitors charge per user or per company. The SDM Business plan covers up to five client firms at a single monthly rate — your revenue grows without your software bill growing with it."
+    },
+    "3": {
+      "label": "Automation",
+      "title": "From invoice to general ledger in seconds",
+      "desc": "Every invoice posts directly to the sales journal and general ledger the moment it is issued. No exports, no manual entries, no reconciliation headaches at month-end."
+    },
+    "4": {
+      "label": "Infrastructure",
+      "title": "EU cloud with full audit traceability",
+      "desc": "No installation. No local backups. Data stored in European infrastructure, fully GDPR compliant. Every action is logged with the user, timestamp and IP address — always."
+    }
   },
   "cta": {
     "title": "Ready to get started?",
