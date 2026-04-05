@@ -35,16 +35,7 @@ export default function Navbar() {
               onClick={() => navigate('/')}
               className="flex items-center select-none focus:outline-none"
             >
-              {/* TODO: Replace with <img src={logo} alt="SDM" className="h-9" /> when logo is available */}
-              <div className="w-9 h-9 rounded-lg flex items-center justify-center mr-2.5 bg-sdm-navy">
-                <span className="text-white font-black text-xs tracking-wider">SDM</span>
-              </div>
-              <div className="leading-tight text-left">
-                <div className="text-sdm-navy font-bold text-sm">Smart Data</div>
-                <div className="text-sdm-blue font-semibold tracking-widest uppercase" style={{ fontSize: 10 }}>
-                  Management
-                </div>
-              </div>
+              <img src="/logo.svg" alt="Smart Data Management" className="h-9" />
             </button>
 
             {/* Nav links - desktop */}
@@ -118,17 +109,7 @@ export default function Navbar() {
       >
         {/* Drawer header */}
         <div className="flex items-center justify-between px-5 h-16 border-b border-gray-100 flex-shrink-0">
-          <div className="flex items-center">
-            <div className="w-8 h-8 rounded-lg flex items-center justify-center mr-2.5 bg-sdm-navy">
-              <span className="text-white font-black text-xs tracking-wider">SDM</span>
-            </div>
-            <div className="leading-tight">
-              <div className="text-sdm-navy font-bold text-sm">Smart Data</div>
-              <div className="text-sdm-blue font-semibold tracking-widest uppercase" style={{ fontSize: 9 }}>
-                Management
-              </div>
-            </div>
-          </div>
+          <img src="/logo.svg" alt="Smart Data Management" className="h-8" />
           <button
             onClick={closeMenu}
             className="w-9 h-9 flex items-center justify-center rounded-lg hover:bg-gray-100 transition-colors text-gray-400 hover:text-gray-700"
